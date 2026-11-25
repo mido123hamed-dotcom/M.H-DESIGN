@@ -1,0 +1,17 @@
+{
+  "name": "M.H DESIGN — نظام تصميم وحصر المطابخ",
+  "short_name": "M.H DESIGN",
+  "description": "تصميم وحصر وتقطيع وتسعير المطابخ والدريسينج مع عرض 3D ومزامنة Google Drive — المهندس محمد حامد",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#EDF0F2",
+  "theme_color": "#0E6B7A",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
